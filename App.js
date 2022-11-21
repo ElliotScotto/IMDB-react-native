@@ -24,7 +24,7 @@ import { FontAwesome } from "@expo/vector-icons";
 export default function App() {
   return (
     <View style={styles.mainContainer}>
-      <StatusBar style={{ backgroundColor: "white" }} />
+      <StatusBar style={"light"} />
       <View style={styles.header}>
         <TouchableOpacity>
           <Image style={styles.tinyLogo} source={logo} />
