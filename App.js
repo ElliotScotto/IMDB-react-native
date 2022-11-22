@@ -104,7 +104,10 @@ export default function App() {
                     </Text>
                   </View>
                   <View>
-                    <Text style={[styles.mainColor, styles.character]}>
+                    <Text
+                      numberOfLines={1}
+                      style={[styles.mainColor, styles.character]}
+                    >
                       Cooper
                     </Text>
                   </View>
@@ -121,7 +124,10 @@ export default function App() {
                     </Text>
                   </View>
                   <View>
-                    <Text style={[styles.mainColor, styles.character]}>
+                    <Text
+                      numberOfLines={1}
+                      style={[styles.mainColor, styles.character]}
+                    >
                       Brand
                     </Text>
                   </View>
@@ -138,7 +144,10 @@ export default function App() {
                     </Text>
                   </View>
                   <View>
-                    <Text style={[styles.mainColor, styles.character]}>
+                    <Text
+                      numberOfLines={1}
+                      style={[styles.mainColor, styles.character]}
+                    >
                       Murph
                     </Text>
                   </View>
@@ -155,7 +164,10 @@ export default function App() {
                     </Text>
                   </View>
                   <View>
-                    <Text style={[styles.mainColor, styles.character]}>
+                    <Text
+                      numberOfLines={1}
+                      style={[styles.mainColor, styles.character]}
+                    >
                       Murph, enfant
                     </Text>
                   </View>
@@ -172,7 +184,10 @@ export default function App() {
                     </Text>
                   </View>
                   <View>
-                    <Text style={[styles.mainColor, styles.character]}>
+                    <Text
+                      numberOfLines={1}
+                      style={[styles.mainColor, styles.character]}
+                    >
                       Dr. Mann
                     </Text>
                   </View>
@@ -189,7 +204,10 @@ export default function App() {
                     </Text>
                   </View>
                   <View>
-                    <Text style={[styles.mainColor, styles.character]}>
+                    <Text
+                      numberOfLines={1}
+                      style={[styles.mainColor, styles.character]}
+                    >
                       Doyle
                     </Text>
                   </View>
@@ -206,7 +224,10 @@ export default function App() {
                     </Text>
                   </View>
                   <View>
-                    <Text style={[styles.mainColor, styles.character]}>
+                    <Text
+                      numberOfLines={1}
+                      style={[styles.mainColor, styles.character]}
+                    >
                       Pr.Brand
                     </Text>
                   </View>
@@ -223,7 +244,10 @@ export default function App() {
                     </Text>
                   </View>
                   <View>
-                    <Text style={[styles.mainColor, styles.character]}>
+                    <Text
+                      numberOfLines={1}
+                      style={[styles.mainColor, styles.character]}
+                    >
                       Cooper Jr
                     </Text>
                   </View>
@@ -240,7 +264,10 @@ export default function App() {
                     </Text>
                   </View>
                   <View>
-                    <Text style={[styles.mainColor, styles.character]}>
+                    <Text
+                      numberOfLines={1}
+                      style={[styles.mainColor, styles.character]}
+                    >
                       Murphy Cooper âgé
                     </Text>
                   </View>
